@@ -1,4 +1,4 @@
-# DoAn_2025
+# Do_An_Chuyen_Nganh
 Đây là 1 hệ thống giám sát điều khiển từ xa cho ao nuôi thủy sản mà mình đang nghiên cứu thực hiện cho nó chở nên tốt hơn, với các chức năng như sau:
 + Dễ dàng giám sát chất lượng nguồn nước trong môi trường ao nuôi tự động 24/7 mà không cần phải dùng cách đo đạt kiểm tra thủ công.
 + Chế độ hẹn giờ
